@@ -25,6 +25,10 @@ body {
     border-radius: 5px;
 }
 
+.joinMessage {
+	clear: both;
+}
+
 p {
 	margin: 10px;
 }
