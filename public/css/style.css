@@ -91,7 +91,7 @@ p {
 }
 
 #userTyping {
-    position: absolute;
+    position: fixed;
     bottom: 55px;
     font-size: 1em;
     font-style: italic;
